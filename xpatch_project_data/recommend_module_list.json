@@ -1,0 +1,24 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "name": "Remove video ads",
+            "src_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "apk_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "apk_link": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "target_app_name": "微信",
+            "order": 0,
+            "expand_content":""
+        },
+        {
+             "name": "Remove video ads",
+            "src_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "apk_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "apk_link": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "target_app_name": "微信",
+            "order": 0,
+            "expand_content":""
+        }
+    ]
+}
