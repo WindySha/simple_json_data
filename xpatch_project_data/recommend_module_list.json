@@ -4,6 +4,7 @@
     "data": [
         {
             "name": "Remove video ads",
+            "desc":"用来去掉视频广告",
             "src_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "apk_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "apk_link": "https://github.com/WindySha/RemoveVideoAdsPlugin",
@@ -12,7 +13,8 @@
             "expand_content":""
         },
         {
-             "name": "Remove video ads",
+            "name": "Remove video ads",
+            "desc":"用来去掉视频广告",
             "src_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "apk_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "apk_link": "https://github.com/WindySha/RemoveVideoAdsPlugin",
