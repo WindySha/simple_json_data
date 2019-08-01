@@ -33,7 +33,7 @@
             "expand_content":""
         },
         {
-            "name": "WechatMagician",
+            "name": "QQ净化",
             "desc":"稳定的QQ模块，可以防撤回，防闪照，还可以精简QQ界面。",
             "apk_url": "https://repo.xposed.info/module/me.zpp0196.qqsimple",
             "source_code_url": "",
