@@ -7,8 +7,9 @@
             "desc":"用来去掉视频广告",
             "apk_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "source_code_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "target_app_name": "微信",
+            "target_app_name": "腾讯视频，爱奇艺",
             "order": 0,
+            "developer": "WindySha",
             "expand_content":""
         },
         {
@@ -16,8 +17,9 @@
             "desc":"用来去掉视频广告",
             "apk_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "source_code_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "target_app_name": "微信",
+            "target_app_name": "腾讯视频，爱奇艺",
             "order": 1,
+            "developer": "WindySha",
             "expand_content":""
         }
     ]
