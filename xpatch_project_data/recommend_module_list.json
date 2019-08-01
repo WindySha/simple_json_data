@@ -3,9 +3,9 @@
     "msg": "ok",
     "data": [
         {
-            "name": "Remove video ads",
-            "desc":"用来去掉视频广告",
-            "apk_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "name": "RemoveVideoAdsPlugin",
+            "desc":"每次播放视频都有1-2分钟的广告，实在不能忍受，用此插件可以去掉腾讯视频和爱奇艺视频的视频广告，非常好用！",
+            "apk_url": "https://github.com/WindySha/RemoveVideoAdsPlugin/releases",
             "source_code_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "target_app_name": "腾讯视频，爱奇艺",
             "order": 0,
@@ -13,13 +13,53 @@
             "expand_content":""
         },
         {
-            "name": "Remove video ads",
-            "desc":"用来去掉视频广告",
-            "apk_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "source_code_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "target_app_name": "腾讯视频，爱奇艺",
-            "order": 1,
-            "developer": "WindySha",
+            "name": "MDWechat",
+            "desc":"一个能让微信Material Design化的Xposed模块，MD界面风格，清新脱俗。",
+            "apk_url": "https://ghboke.ctfile.com/dir/7369060-24594381-90b0f5/",
+            "source_code_url": "https://github.com/Blankeer/MDWechat",
+            "target_app_name": "微信",
+            "order": 10,
+            "developer": "Blankeer",
+            "expand_content":""
+        },
+        {
+            "name": "WechatMagician",
+            "desc":"一款骚兮兮的微信Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容",
+            "apk_url": "https://repo.xposed.info/module/com.gh0u1l5.wechatmagician",
+            "source_code_url": "https://github.com/Gh0u1L5/WechatMagician",
+            "target_app_name": "微信",
+            "order": 20,
+            "developer": "Gh0u1L5",
+            "expand_content":""
+        },
+        {
+            "name": "WechatMagician",
+            "desc":"稳定的QQ模块，可以防撤回，防闪照，还可以精简QQ界面。",
+            "apk_url": "https://repo.xposed.info/module/me.zpp0196.qqsimple",
+            "source_code_url": "",
+            "target_app_name": "QQ",
+            "order": 30,
+            "developer": "zpp0196",
+            "expand_content":""
+        },
+        {
+            "name": "抖音助手",
+            "desc":"功能强大的抖音插件。",
+            "apk_url": "https://repo.xposed.info/module/com.wind.xposed.aweme",
+            "source_code_url": "",
+            "target_app_name": "抖音",
+            "order": 40,
+            "developer": "mdst",
+            "expand_content":""
+        },
+        {
+            "name": "文本自定义",
+            "desc":"用于修改App内显示的文任意文本内容。",
+            "apk_url": "https://repo.xposed.info/module/liubaoyua.customtext",
+            "source_code_url": "https://github.com/biokevy/CustomText-MD",
+            "target_app_name": "任何应用",
+            "order": 50,
+            "developer": "liubaoyua",
             "expand_content":""
         }
     ]
