@@ -5,9 +5,8 @@
         {
             "name": "Remove video ads",
             "desc":"用来去掉视频广告",
-            "src_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "apk_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "apk_link": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "apk_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "source_code_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "target_app_name": "微信",
             "order": 0,
             "expand_content":""
@@ -15,11 +14,10 @@
         {
             "name": "Remove video ads",
             "desc":"用来去掉视频广告",
-            "src_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "apk_website": "https://github.com/WindySha/RemoveVideoAdsPlugin",
-            "apk_link": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "apk_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
+            "source_code_url": "https://github.com/WindySha/RemoveVideoAdsPlugin",
             "target_app_name": "微信",
-            "order": 0,
+            "order": 1,
             "expand_content":""
         }
     ]
