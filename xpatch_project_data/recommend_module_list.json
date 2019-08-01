@@ -1,6 +1,6 @@
 {
-    "code": 0,
-    "msg": "success",
+    "code": 200,
+    "msg": "ok",
     "data": [
         {
             "name": "Remove video ads",
